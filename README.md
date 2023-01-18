@@ -5,7 +5,7 @@
 
 <br>
 
-## ☺️About Me
+## About Me
 
 ▪️At the moment, I am aiming to upgrade my technical skills and develop web development projects.
 
@@ -13,9 +13,9 @@
 
 ▪️Interested in exploring the possibilities of "web Development"                                                                                                                                 
 
-▪️fun fact: I think I am Funny XD ✨
+▪️fun fact: I think I am Funny XD 
 
-▪️📬To get in touch with me, please email me at pranaybobade98@gmail.com
+▪️To get in touch with me, please email me at pranaybobade98@gmail.com
 
 
 <hr>
