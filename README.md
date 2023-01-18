@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaybobde&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaybobde&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaybobde&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
