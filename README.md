@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm JUHI, Web Developer💻🌐- in Process</h1>
-<h3 align="center">A Girl trying to figure-out stuff!!</h3>
+<h1 align="center">Hi, I'm Pranay Bobde, Web Developer- in Process</h1>
+<h3 align="center">A Man trying to figure-out stuff!!</h3>
 <hr>
- 🔗Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Nagpur. 
+ Currently, I am a student pursuing my Bachelor's Degree(BA) from Open University of Nagpur. 
 
 <br>
 
 ## ☺️About Me
 
-▪️💻At the moment, I am aiming to upgrade my technical skills and develop web development projects.
+▪️At the moment, I am aiming to upgrade my technical skills and develop web development projects.
 
-▪️🙌Open Source Projects are something I'd like to work on.
+▪️Open Source Projects are something I'd like to work on.
 
-▪️✨Interested in exploring the possibilities of "web Development"                                                                                                                                 
+▪️Interested in exploring the possibilities of "web Development"                                                                                                                                 
 
-▪️😅fun fact: I think I am Funny XD ✨
+▪️fun fact: I think I am Funny XD ✨
 
-▪️📬To get in touch with me, please email me at juhinagpure143@gmail.com
+▪️📬To get in touch with me, please email me at pranaybobade98@gmail.com
 
 
 <hr>
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juhinagpure" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhinagpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhinagpure" height="30" width="40" /></a>
+<a href="https://twitter.com/pranaybobde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranay-bob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
@@ -34,10 +34,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhinagpure&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaybobde&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhinagpure&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhinagpure&theme=dracula&hide_border=true" alt="juhinagpure" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaybobde&theme=dracula&hide_border=true" alt="pranaybobde" /></p>
 
-[![Juhi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juhinagpure&theme=dracula)](https://github.com/juhinagpure/github-readme-activity-graph)
+[![pranay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pranaybobde&theme=dracula)](https://github.com/pranay-bob/github-readme-activity-graph)
