@@ -1,4 +1,5 @@
-Hi, I'm Pranay Bobde, Web Developer- in Process
+Hi, I'm Pranay Bobde,
+Web Developer- in Process
 A Man trying to figure-out stuff!!
 Currently, I am a student pursuing my Bachelor's Degree(BA) from Open University of Nagpur.
 ☺️About Me
